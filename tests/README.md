@@ -27,5 +27,3 @@ Run `mocha`
 # End to end tests
 
 ![e2e.png](https://raw.githubusercontent.com/theotheu/books/assets/docs/assets/e2e.png)
-
-
